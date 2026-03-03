@@ -17,10 +17,107 @@
 <p align="left">
 <a href="https://linkedin.com/in/chikkela-pranitha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chikkela-pranitha" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/chikkelapranitha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chikkelapranitha" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/chikkela_pranitha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chikkela_pranitha" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
+
+# 🛠️ Languages & Tools
+
+### 🚀 Frontend  
+<div align="left">
+<table>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=html" height="45"/><br/>
+        <sub><b>HTML</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=css" height="45"/><br/>
+        <sub><b>CSS</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=js" height="45"/><br/>
+        <sub><b>JavaScript</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=react" height="45"/><br/>
+        <sub><b>React</b></sub>
+      </td>
+      <td align="center">
+       <a href="https://tailwindcss.com/">
+          <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="Tailwind CSS"/>
+       </a>
+       <br/>
+       <sub><b>Tailwind CSS</b></sub>
+     </td>
+    </tr>
+</table>
+</div>
+
+
+---
+
+### ⚙️ Backend & APIs
+<div align="left">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs" height="45"/><br/>
+      <sub><b>Node.js</b></sub>
+      </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=express" height="45"/><br/>
+      <sub><b>Express.js</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/REST%20APIs-blue?style=for-the-badge" height="28"/><br/>
+      <sub><b>REST APIs</b></sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
+---
+
+### 🛢️ Database 
+<div align="left">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=mysql" height="45"/><br/>
+        <sub><b>MySQL</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=sqlite" height="45"/><br/>
+        <sub><b>SQL</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+### 🧰 Tools & Other Skills  
+<div align="left">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" height="45"/><br/>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=github" height="45"/><br/>
+      <sub><b>GitHub</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postman" height="45"/><br/>
+      <sub><b>Postman</b></sub>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 
