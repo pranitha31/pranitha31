@@ -7,7 +7,7 @@
 
 - 🎓 Final-Year **Computer Science Engineering Student (2026 Batch)**
 
-- 🌱 I’m currently learning **Ai Automation, Django, Data Analysis**
+- 🌱 I’m currently learning **Ai Automation,Data Analysis**
 
 - 🚀 Turning ideas into practical **user-friendly applications**
 
@@ -17,6 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/chikkela-pranitha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chikkela-pranitha" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/chikkelapranitha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chikkelapranitha" height="30" width="40" /></a>
+
 
 ---
 
@@ -97,6 +98,8 @@
   </table>
 </div>
 
+
+---
 
 ### 🧰 Tools & Other Skills  
 <div align="left">
